@@ -8,7 +8,6 @@
 
 int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle");
-    puts("and trying to solve it in different ways\" - Niklaus Wirth");
+    puts("\"Programming is like building a multilingual puzzle and trying to solve it in different ways\" - Niklaus Wirth");
     return (0);
 }
